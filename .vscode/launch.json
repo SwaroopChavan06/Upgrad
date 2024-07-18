@@ -1,0 +1,427 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "identicalOrNot",
+            "request": "launch",
+            "mainClass": "identicalOrNot",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "addElementInSpecificPos",
+            "request": "launch",
+            "mainClass": "addElementInSpecificPos",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "frontAddition",
+            "request": "launch",
+            "mainClass": "frontAddition",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "middleElement",
+            "request": "launch",
+            "mainClass": "middleElement",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "countTheLength",
+            "request": "launch",
+            "mainClass": "countTheLength",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "sumOfElement",
+            "request": "launch",
+            "mainClass": "sumOfElement",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "linkedList",
+            "request": "launch",
+            "mainClass": "linkedList",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "sameStringOrNot",
+            "request": "launch",
+            "mainClass": "sameStringOrNot",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "multiDimensionArray",
+            "request": "launch",
+            "mainClass": "multiDimensionArray",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "largestNumber",
+            "request": "launch",
+            "mainClass": "largestNumber",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferr",
+            "request": "launch",
+            "mainClass": "StringBufferr",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "duplicateArray",
+            "request": "launch",
+            "mainClass": "duplicateArray",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "stringAnagram",
+            "request": "launch",
+            "mainClass": "stringAnagram",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilder1",
+            "request": "launch",
+            "mainClass": "stringBuilder1",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilder",
+            "request": "launch",
+            "mainClass": "stringBuilder",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "HWDuplicate",
+            "request": "launch",
+            "mainClass": "HomeWork.HWDuplicate",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "StringsName",
+            "request": "launch",
+            "mainClass": "StringsName",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "abstraction",
+            "request": "launch",
+            "mainClass": "abstraction",
+            "projectName": "Notes_8278a671"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Module.Matrix",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Employe",
+            "request": "launch",
+            "mainClass": "Module.Employe",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "AddDistance",
+            "request": "launch",
+            "mainClass": "Module.AddDistance",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Module.Employee",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Module.Main",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "Module.Average",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Areaa",
+            "request": "launch",
+            "mainClass": "Module.Areaa",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Module.Rectangle",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Reactangle",
+            "request": "launch",
+            "mainClass": "Module.Reactangle",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Module.Triangle",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Students",
+            "request": "launch",
+            "mainClass": "Module.Students",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Module.Student",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Module.Area",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "StringManipulator",
+            "request": "launch",
+            "mainClass": "Module.StringManipulator",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "MathOperations",
+            "request": "launch",
+            "mainClass": "Module.MathOperations",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "ShapeArea",
+            "request": "launch",
+            "mainClass": "Module.ShapeArea",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Module.Calculator",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "animal",
+            "request": "launch",
+            "mainClass": "animal",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Author",
+            "request": "launch",
+            "mainClass": "Author",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Garments",
+            "request": "launch",
+            "mainClass": "Garments",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Resort",
+            "request": "launch",
+            "mainClass": "Resort",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Candidate",
+            "request": "launch",
+            "mainClass": "Candidate",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "SUPPLY",
+            "request": "launch",
+            "mainClass": "SUPPLY",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "carRentalL",
+            "request": "launch",
+            "mainClass": "carRentalL",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Poly",
+            "request": "launch",
+            "mainClass": "Poly",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "GretestOfThreeNum",
+            "request": "launch",
+            "mainClass": "GretestOfThreeNum",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Xlogin",
+            "request": "launch",
+            "mainClass": "Xlogin",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateArray",
+            "request": "launch",
+            "mainClass": "DuplicateArray",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircleUsingMethod",
+            "request": "launch",
+            "mainClass": "AreaOfCircleUsingMethod",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "MaxElement",
+            "request": "launch",
+            "mainClass": "MaxElement",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloadingOfArea",
+            "request": "launch",
+            "mainClass": "MethodOverloadingOfArea",
+            "projectName": "Notes_78c535ff"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "SumOfArray",
+            "projectName": "Notes_78c535ff"
+        }
+    ]
+}
