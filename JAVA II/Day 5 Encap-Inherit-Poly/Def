@@ -1,0 +1,23 @@
+1. Encapsulation
+Encapsulation is the mechanism of wrapping the data (variables) and code (methods) together as a single unit.
+It restricts direct access to some of the object's components, which can prevent the accidental modification of data.
+This is usually achieved by using access modifiers.
+
+2. Inheritance
+Inheritance is a mechanism where one class acquires the properties (fields) and behaviors (methods) of another class.
+The class that inherits is called the subclass (or derived class), and the class from which it inherits is called the superclass (or base class).
+
+3. Polymorphism
+Polymorphism means "many forms," and it allows one interface to be used for a general class of actions. The most common use of polymorphism in OOP is when a parent class reference is used to refer to a child class object. It can be implemented via
+method overriding and method overloading.
+
+Access Modifiers
+1. public: The member is accessible from any other class. If a class is declared as public then we can access that class from anywhere. (can access from Class-Subclass-Package-Global)
+2. private: The member is accessible only within the class it is declared.(can access from-Class)
+3. protected: The member is accessible within its own package and by subclasses. This modifier can be applied to the data member, method, and constructor, but this modifier can’t be applied to the top-level classes and interface. (can access from- Class-Subclass-Package)
+4. default (no modifier): The member is accessible only within its own package.(can access from- Class-Package)
+
+Method overriding: it allows a subclass to provide a specific implementation of a method that is already defined in its superclass. The overridden method in the subclass should have the same name, return type, and parameters as the method in the superclass.
+
+What is Method Overloading?
+Same name of methods but diff parameter. 
