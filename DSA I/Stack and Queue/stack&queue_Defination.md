@@ -138,5 +138,3 @@ When objects are in the middle of the line, it is difficult to access or remove 
 
 CONCLUSION
 Stacks and queues are essential Java data structures with specific functions. Counting function calls, doing undos and redos, and evaluating expressions are popular uses for stacks. Queues, on the other hand, are helpful for sequential data management, message passing, breadth-first search, and job scheduling.
-
-By understanding its features, applications, and implementations, you can use stack and queue in Java to arrange and modify data methodically and efficiently.
