@@ -1,10 +1,5 @@
 class LL { // This is the main class for the linked list.
     Node head; // A reference to the first node of the linked list.
-    private int size; // A private integer to keep track of the size of the linked list.
-
-    LL() { // Constructor initializing size to 0.
-        size = 0;
-    }
 
     // Inner Node Class
     public class Node { // An inner class representing each node in the linked list.
@@ -12,10 +7,8 @@ class LL { // This is the main class for the linked list.
         Node next; // Reference to the next node in the linked list.
 
         Node(int data) { // Constructor initializing the node's data and setting the next reference to
-                         // null.
             this.data = data;
             this.next = null;
-            size++;
         }
     }
 
@@ -58,8 +51,7 @@ class LL { // This is the main class for the linked list.
             System.out.println("Empty list");
             return;
         }
-        head = head.next; // Otherwise, set head to head.next and decrement the size.
-        size--;
+        head = head.next; // Otherwise, set head to head.next
     }
 
     // Removing the Last Element
@@ -68,7 +60,6 @@ class LL { // This is the main class for the linked list.
             System.out.println("Empty list");
             return;
         }
-        size--; // Decrement the size.
         if (head.next == null) { // If head.next is null, set head to null.
             head = null;
             return;
@@ -83,11 +74,6 @@ class LL { // This is the main class for the linked list.
         currNode.next = null;
     }
 
-    // Getting the Size
-    public int getSize() {
-        return size;
-    }
-
     public static void main(String[] args) {
         LL obj = new LL();
         obj.addFirst(10);
@@ -100,6 +86,5 @@ class LL { // This is the main class for the linked list.
         obj.printList(); // 20 => 10 => 40 => null
         obj.removeLast();
         obj.printList();
-        System.out.println("length size of Linked list is: " + obj.getSize()); // 4
     }
 }
