@@ -42,6 +42,9 @@ Several methods are available to modify and access stack elements in the Java St
 
 5. size(): Gives the stack's element count.
 
+StackOver FLow : When a stack is full and we push elements then this has error of StackOverflow
+Stack UnderFLow : When a stack is empty and we pop elements then this has error of StackUnderFLow
+
 
 
 WHAT IS THE QUEUE?
@@ -145,3 +148,4 @@ By understanding its features, applications, and implementations, you can use st
 Wednesday -> Practice Session
 Thursday -> Test- Mock test(Easy Level)
 Friday -> Changes
+Saturday -> Mock Test, Mock Interview, Group Discussion
