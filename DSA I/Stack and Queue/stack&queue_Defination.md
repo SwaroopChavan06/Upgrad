@@ -52,6 +52,8 @@ A queue is a basic data structure representing a group of elements in a predeter
 
 In Java, we can use the Queue interface to represent a queue. Several classes implement the Queue interface in the Java Collections Framework, such as LinkedList and ArrayDeque.
 
+The remove() and poll() methods differ only in their behavior when the queue is empty: the remove() method throws an exception, while the poll() method returns null
+
 Example:
 
 import java.util.Queue;
