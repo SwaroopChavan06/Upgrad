@@ -149,3 +149,7 @@ Wednesday -> Practice Session
 Thursday -> Test- Mock test(Easy Level)
 Friday -> Changes
 Saturday -> Mock Test, Mock Interview, Group Discussion
+
+
+Write a program to compress the string (aabbabbacccdd)->(a2b2ab2ac3d2)
+Write a program to decompress the string (a2b2ab2ac3d2)->(aabbabbacccdd)
